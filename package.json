@@ -2,6 +2,7 @@
   "name": "flashcards",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zahar-kshyvak-softermii.github.io/flashcards-codecademy",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
