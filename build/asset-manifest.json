@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbedf18e.css",
-    "main.js": "/static/js/main.5dc65701.js",
-    "static/js/453.bb255750.chunk.js": "/static/js/453.bb255750.chunk.js",
-    "index.html": "/index.html",
-    "main.fbedf18e.css.map": "/static/css/main.fbedf18e.css.map",
-    "main.5dc65701.js.map": "/static/js/main.5dc65701.js.map",
-    "453.bb255750.chunk.js.map": "/static/js/453.bb255750.chunk.js.map"
+    "main.css": "/flashcards-codecademy/static/css/main.fbedf18e.css",
+    "main.js": "/flashcards-codecademy/static/js/main.bb2d37ce.js",
+    "static/js/453.bb255750.chunk.js": "/flashcards-codecademy/static/js/453.bb255750.chunk.js",
+    "index.html": "/flashcards-codecademy/index.html",
+    "main.fbedf18e.css.map": "/flashcards-codecademy/static/css/main.fbedf18e.css.map",
+    "main.bb2d37ce.js.map": "/flashcards-codecademy/static/js/main.bb2d37ce.js.map",
+    "453.bb255750.chunk.js.map": "/flashcards-codecademy/static/js/453.bb255750.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbedf18e.css",
-    "static/js/main.5dc65701.js"
+    "static/js/main.bb2d37ce.js"
   ]
 }
